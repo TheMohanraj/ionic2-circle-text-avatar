@@ -1,4 +1,4 @@
-# Ionic 2: Circle text avatar
+# Ionic 2: Circle text avatar/image/thumbnail
 
 Example screenshot
 
