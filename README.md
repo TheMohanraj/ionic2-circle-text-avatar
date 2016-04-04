@@ -1,2 +1,2 @@
-# ionic2-circle-text-image
-Circle text image for ionic 2
+# Ionic 2: Circle text avatar
+
