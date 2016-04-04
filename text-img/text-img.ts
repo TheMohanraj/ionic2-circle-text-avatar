@@ -1,5 +1,5 @@
 import {Directive, ElementRef, Input} from 'angular2/core';
-import {ColorGenerator} from '../../utils/color-generator';
+import {ColorGenerator} from './color-generator';
  
 @Directive({
     selector: 'text-img',
