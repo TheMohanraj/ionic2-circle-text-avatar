@@ -8,6 +8,6 @@ Example screenshot
 ------------------
  1. Clone the example source
  2. Install `node.js` and `ionic cli`
- 3. cd into example
+ 3. 'cd' into example
  4. Run `npm install`
  5. Run `ionic serve`
