@@ -1,0 +1,16 @@
+<ion-navbar *navbar>
+  <ion-title>Tab 1</ion-title>
+</ion-navbar>
+
+<ion-content padding class="page1">
+  <ion-list>
+    <ion-list-header>
+      Circle text avatar
+    </ion-list-header>
+    <ion-item *ngFor="#name of names">
+      <text-img [text]="name" item-left></text-img>
+      <h2>{{name}}</h2>
+      <p>Description here</p>
+    </ion-item>
+  </ion-list>
+</ion-content>
